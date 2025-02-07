@@ -32,3 +32,9 @@ Throughout these projects, I’ve expanded my support network by learning from o
 
 To make my code more maintainable and adaptable, I focused on clear comments, proper variable naming, and keeping functions focused on single responsibilities. These best practices have made the projects easier to revisit, both for me and others who may work with my code in the future.
 
+---
+
+## How to Run the Code
+- Clone the repository: `git clone <your-repo-url>`
+- For `thermostat.py`, ensure you have the required hardware (Raspberry Pi, temperature sensor, LEDs, buttons).
+- For `Milestone1.py`, set up a Raspberry Pi with GPIO pin 18 connected to an LED.
